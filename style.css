@@ -269,6 +269,7 @@ followers
 .followers-info:hover {
   background-color: var(--clr-card-bg-hover);
   transition: var(--transition);
+  transform: scale(1.05);
 }
 
 .social-media,
@@ -331,6 +332,7 @@ overview
 .overview-container:hover {
   background-color: var(--clr-card-bg-hover);
   transition: var(--transition);
+  transform: scale(1.05);
 }
 
 .overview-info {
