@@ -105,6 +105,12 @@ p {
   font-weight: var(--fw-bold);
 }
 
+label {
+  color: var(--clr-info-text);
+  font-size: 1.4em;
+  font-weight: var(--fw-bold);
+}
+
 .container {
   max-width: 1200px;
   padding: 2rem;
