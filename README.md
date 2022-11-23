@@ -23,12 +23,12 @@ Os usuários devem:
 
 ### Screenshot
 
-![](#)
+![](./images/Screenshot.png)
 
 ### Links
 
-- Solução: [GitHub Repo](#)
-- Live Site URL: [GitHub live site](#)
+- Solução: [GitHub Repo](https://github.com/lucasfs022/social-media-dashboard)
+- Live Site URL: [GitHub live site](https://lucasfs022.github.io/social-media-dashboard/)
 
 ### Feito utilizando
 
